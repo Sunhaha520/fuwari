@@ -49,7 +49,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/demo-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: '可乐君',
-  bio: '天街踏尽公卿骨。',
+  bio: '学术不用顶呱呱，毕业回家卖地瓜',
   links: [
     {
       name: 'Twitter',
@@ -60,7 +60,7 @@ export const profileConfig: ProfileConfig = {
     },
     {
       name: 'Steam',
-      icon: 'fa6-brands:mail',
+      icon: 'material-symbols:mail',
       url: 'mailto://dereksunmo@163.com',
     },
     {
